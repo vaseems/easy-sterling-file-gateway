@@ -330,8 +330,7 @@ export default function Home() {
             }}
           />
           <span style={{ fontSize: 12, color: "#475569" }}>
-            <strong style={{ color: "#0f172a" }}>API Base:</strong>{" "}
-            https://b2birestapi-mrc-sfg-qa.apps.sfglowerqa.openshift.mrcooper.io/B2BAPIs/svc
+            <strong style={{ color: "#0f172a" }}>API Base:</strong> BASE URL
           </span>
           <Link
             href="/settings"

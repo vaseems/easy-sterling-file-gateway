@@ -34,7 +34,7 @@ const DEFAULT_SETTINGS: FeatureSettings = {
     Object.keys(RESOURCE_CATEGORIES).map((k) => [k, true]),
   ),
   apiBaseUrl:
-    "https://b2birestapi-mrc-sfg-qa.apps.sfglowerqa.openshift.mrcooper.io/B2BAPIs/svc",
+    "",
   apiUsername: "",
   apiPassword: "",
   itemsPerPage: 20,

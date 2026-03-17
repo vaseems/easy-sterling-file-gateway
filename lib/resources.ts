@@ -762,4 +762,4 @@ export function getResourcesByCategory(): Record<string, ResourceConfig[]> {
 }
 
 export const BASE_URL =
-  "https://b2birestapi-mrc-sfg-qa.apps.sfglowerqa.openshift.mrcooper.io/B2BAPIs/svc";
+  "";

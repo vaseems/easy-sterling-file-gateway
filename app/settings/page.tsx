@@ -323,7 +323,7 @@ export default function SettingsPage() {
                     onChange={(e) =>
                       updateSettings({ apiBaseUrl: e.target.value })
                     }
-                    placeholder="https://your-server.com/B2BAPIs/svc"
+                    placeholder=""
                   />
                   <p style={{ fontSize: 11, color: "#475569", marginTop: 4 }}>
                     The base URL of the Sterling B2B Integrator REST API server.
